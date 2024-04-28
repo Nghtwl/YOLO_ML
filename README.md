@@ -3,4 +3,4 @@
 В папке app необходимо разархивировать archive.zip \
 Запустить необходимо app.py \
 После запуска появится окно, в которое можно заугрзить изображение \
-![image info](images/image.png)
+![image info](images/app1.png)
