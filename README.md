@@ -3,6 +3,6 @@
 В папке app необходимо разархивировать archive.zip \
 Запустить необходимо app.py \
 После запуска появится окно, в которое можно загрузить изображение \
-<img src="images/app1.png" width=25% height=25%>\
+<img src="images/app1.png" width=40% height=40%>\
 Далее появится обработанное изображение с выделенными объектами \
-<img src="images/app2.png" width=25% height=25%>
+<img src="images/app2.png" width=40% height=40%>
